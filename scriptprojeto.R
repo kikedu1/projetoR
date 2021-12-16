@@ -7,3 +7,6 @@ rename()
 # Segunda parte
 join()
 select()
+# Versão 3
+# Alterações remotas
+# Novos comandos
