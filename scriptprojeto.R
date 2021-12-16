@@ -3,3 +3,7 @@
 # Versão 3
 mutate()
 rename()
+# Novas linhas de comando
+# Segunda parte
+join()
+select()
